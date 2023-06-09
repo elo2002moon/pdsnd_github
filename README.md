@@ -7,7 +7,7 @@ June 9th, 2023
 Investigate US bikeshare data
 
 ### Description
-The project investigates customer bike share data in three major cities in US.
+The project investigates customer bike share data in three major cities in US. The cities are Washington, New York City, and Chicago.
 
 ### Files used
 bikeshare.py
